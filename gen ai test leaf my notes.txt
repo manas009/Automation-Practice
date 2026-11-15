@@ -1,0 +1,21 @@
+1.Give a small, focused task
+2.Review the output
+3.Use that output as input to the next prompt
+4.Continue refining in steps rather than asking for everything at once as single prompt.
+
+
+* each char is not equal to token , its token algo based on which char together determines as token 
+
+* Tokenizer - > Converts i/p to tokens and assigns a token ID to each token
+
+* Store prompts into md file
+
+
+Chain of Thought prompting is a technique where we ask AI to solve a problem step by step instead of directly giving the final answer.
+We break a complex problem into smaller steps so that AI can provide a clear and structured explanation.
+For example, instead of asking AI for only the answer, we can ask it to explain the solution step by step.
+This is useful for solving complex problems and understanding the solution.
+
+Socratic Prompting is a technique where we ask AI to guide us through questions instead of directly giving answers.
+AI asks questions one by one to encourage critical thinking and help us find the answer ourselves.
+It is useful for learning, problem-solving, and understanding concepts.

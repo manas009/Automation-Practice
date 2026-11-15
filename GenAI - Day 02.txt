@@ -1,0 +1,14 @@
+Activities
+
+1) Find 10 different model providers and their models released in last 12 months
+
+Details to collect:
+Model Provider | Model | Release Date | Cut off Date | Cost of tokens | Context Window | Type | When to use this model |
+
+2) Read 2-3 articles about how transformer works?
+Goal to understand:
+(a) Self-attention mechanism
+(b) Vector embedding
+(c) Feed forward Neural Network
+
+3) Connect with your group learners and connect with their LinkedIn profiles
